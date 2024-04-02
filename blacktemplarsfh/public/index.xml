@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>The Black Templars of Sol Oriens</title>
+  <link rel="alternate" href="http://blacktemplarsfh.github.io/" />
+  <link rel="self" href="http://blacktemplarsfh.github.io/index.xml" />
+  <subtitle>Recent content on The Black Templars of Sol Oriens</subtitle>
+  <id>http://blacktemplarsfh.github.io/</id>
+  <generator uri="http://gohugo.io" version="0.124.1">Hugo</generator>
+  <language>en-us</language>
+  <updated>2024-04-02T16:38:05+03:00</updated>
+  <author>
+    
+    
+  </author>
+  
+      <entry>
+        <title>Introduction</title>
+        <link rel="alternate" href="http://blacktemplarsfh.github.io/posts/introduction/" />
+        <id>http://blacktemplarsfh.github.io/posts/introduction/</id>
+        <published>2024-04-02T16:38:05+03:00</published>
+        <updated>2024-04-02T16:38:05+03:00</updated>
+        <summary type="html">A Grand Return On the 19th of January, 2024, the once famous or famously feared Black Templars of Sol Oriens have returned under the command of Lord Aidan Tremelay.</summary>
+      </entry>
+
+</feed>
+
+

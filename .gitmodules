@@ -1,0 +1,13 @@
+[submodule "blacktemplarsfh/themes/themes/WonderMod"]
+	path = blacktemplarsfh/themes/themes/WonderMod
+	url = https://github.com/Wonderfall/hugo-WonderMod.git
+[submodule "themes/PaperMod"]
+	path = themes/PaperMod
+	url = https://github.com/adityatelange/hugo-PaperMod.git
+[submodule "blacktemplarsfh/themes/WonderMod"]
+	path = blacktemplarsfh/themes/WonderMod
+	url = https://github.com/Wonderfall/hugo-WonderMod.git
+[submodule "public"]
+	path = public
+	url = https://github.com/peternrdstrm/backtemplarsfh.github.io.git
+	branch = main
